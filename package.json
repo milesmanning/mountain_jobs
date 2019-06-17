@@ -1,0 +1,11 @@
+{
+  "name": "mountain_jobs",
+  "version": "1.0.0",
+  "description": "Website for job listings in the Jackson Hole area and mountain jobs in the greater region",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Miles Manning",
+  "license": "ISC"
+}
